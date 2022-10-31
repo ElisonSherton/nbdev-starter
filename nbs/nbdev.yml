@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-starter"
+  site-url: "https://ElisonSherton.github.io/nbdev-starter"
+  description: "nbdev starter notebook"
+  repo-branch: main
+  repo-url: "https://github.com/ElisonSherton/nbdev-starter"
